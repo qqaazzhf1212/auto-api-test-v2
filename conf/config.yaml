@@ -1,0 +1,12 @@
+logs:
+  name: pyapi
+  file:  ../results/logs/pyapi.log
+  debug: True
+
+testdatas:
+  file: D:\Program Files\JetBrains\python\\auto_test\\test_datas\\api_cases.xlsx
+  debug: True
+
+reports:
+  file: ./results/reports/apitest测试报告.html
+  description: api测试报告
